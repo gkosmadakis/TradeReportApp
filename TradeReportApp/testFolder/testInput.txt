@@ -1,0 +1,12 @@
+cur=currencyUSD,ent=entityFoo,tt=buyTradeType,instructionDate=01 Jan 2016,settlementDate=02 Jan 2016,units=300,pricePerUnit=50.25
+cur=currencyAED,agreededFx=0.2,ent=entityBar,tt=sellTradeType,instructionDate=01 Jan 2016,settlementDate=02 Jan 2016,units=400,pricePerUnit=150.5
+cur=currencySAR,agreededFx=0.5,ent=entityOne,tt=sellTradeType,instructionDate=01 Jan 2016,settlementDate=02 Jan 2016,units=500,pricePerUnit=125.5
+cur=currencyUSD,ent=entityTwo,tt=buyTradeType,instructionDate=01 Jan 2016,settlementDate=01 Jan 2016,units=300,pricePerUnit=100.25
+cur=currencyAED,agreededFx=0.2,ent=entityFour,tt=buyTradeType,instructionDate=01 Jan 2016,settlementDate=01 Jan 2016,units=400,pricePerUnit=150.5
+cur=currencyAED,agreededFx=0.2,ent=entityThree,tt=sellTradeType,instructionDate=02 Jan 2016,settlementDate=03 Jan 2016,units=200,pricePerUnit=115.5
+cur=currencyUSD,ent=entityFive,tt=buyTradeType,instructionDate=02 Jan 2016,settlementDate=03 Jan 2016,units=200,pricePerUnit=100.25
+cur=currencyAED,agreededFx=0.2,ent=entitySix,tt=sellTradeType,instructionDate=03 Jan 2016,settlementDate=04 Jan 2016,units=350,pricePerUnit=150.5
+cur=currencySAR,agreededFx=0.5,ent=entitySeven,tt=sellTradeType,instructionDate=04 Jan 2016,settlementDate=04 Jan 2016,units=400,pricePerUnit=105.5
+cur=currencyTGH,agreededFx=0.3,ent=entityEight,tt=buyTradeType,instructionDate=05 Jan 2016,settlementDate=05 Jan 2016,units=250,pricePerUnit=100.4
+cur=currencyIDS,agreededFx=0.3,ent=entityNine,tt=buyTradeType,instructionDate=07 Jan 2016,settlementDate=08 Jan 2016,units=200,pricePerUnit=150.5
+cur=currencyAED,agreededFx=0.2,ent=entityTen,tt=buyTradeType,instructionDate=07 Jan 2016,settlementDate=07 Jan 2016,units=100,pricePerUnit=115.5
