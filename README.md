@@ -74,6 +74,7 @@ Settlement Date: The date on which the client wished for the instruction to be s
 Buy/Sell flag:
 
 o B – Buy – outgoing
+
 o S – Sell – incoming
 
 Agreed Fx is the foreign exchange rate with respect to USD that was agreed
